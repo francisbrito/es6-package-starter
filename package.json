@@ -16,6 +16,7 @@
     "eslint-config-airbnb": "0.0.8",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.2.1",
-    "gulp-eslint": "^1.0.0"
+    "gulp-eslint": "^1.0.0",
+    "gulp-tape": "0.0.3"
   }
 }
