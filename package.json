@@ -13,6 +13,7 @@
     "babel-core": "^5.8.25",
     "babel-eslint": "^4.1.3",
     "babel-runtime": "^5.8.25",
+    "blue-tape": "^0.1.10",
     "eslint-config-airbnb": "0.0.8",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.2.1",
