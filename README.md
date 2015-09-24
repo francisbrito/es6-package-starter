@@ -8,5 +8,5 @@ npm install
 ```
 
 ### Tasks
-* `gulp lint` lints files at `src` directory.
-* `gulp compile` transpiles ES6 files at `src` to ES5. Copies them to `lib`
+* `gulp lint` lints files at `src` and `test` directories.
+* `gulp compile` transpiles ES6 files at `src` and `test` to ES5. Copies them to `.tmp`
